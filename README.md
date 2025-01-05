@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 **About Me**  
-I'm a passionate **Java Beginner**, creative **Graphic Designer**, and an enthusiastic **Tech Explorer** with a drive to learn and grow. My journey combines coding with design, fueled by curiosity and determination.  
+I'm a passionate **Java Beginner**, creative **Graphic Designer**, and enthusiastic **Tech Explorer**. My journey is to become a skilled **Full Stack Developer** by continuously improving my coding and design skills, fueled by curiosity and determination.  
 
 ---
 
@@ -39,9 +39,10 @@ I'm a passionate **Java Beginner**, creative **Graphic Designer**, and an enthus
 ---
 
 ## 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandun%20Thiwanka-blue?logo=linkedin&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-Sandun%20Thiwanka-1DA1F2?logo=twitter&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-green?logo=googlechrome&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandun%20Thiwanka-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sandun-thiwanka-273734230)  
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Explore-orange?logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/sandunthiwanka)  
+[![Medium](https://img.shields.io/badge/Medium-Sandun%20Thiwanka-black?logo=medium&logoColor=white)](https://medium.com/@sandunthiwanka904)  
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-Tech%20Updates-purple?logo=daily.dev&logoColor=white)](https://app.daily.dev/sandun15)  
 
 ---
 
