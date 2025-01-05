@@ -39,10 +39,22 @@ I'm a passionate **Java Beginner**, creative **Graphic Designer**, and enthusias
 ---
 
 ## 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandun%20Thiwanka-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sandun-thiwanka-273734230)  
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Explore-orange?logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/sandunthiwanka)  
-[![Medium](https://img.shields.io/badge/Medium-Sandun%20Thiwanka-black?logo=medium&logoColor=white)](https://medium.com/@sandunthiwanka904)  
-[![Daily.dev](https://img.shields.io/badge/Daily.dev-Tech%20Updates-purple?logo=daily.dev&logoColor=white)](https://app.daily.dev/sandun15)  
+
+<p align="center">
+  <a href="www.linkedin.com/in/sandun-thiwanka-273734230" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandun%20Thiwanka-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://roadmap.sh/u/sandunthiwanka" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap.sh-Explore-orange?logo=roadmap.sh&logoColor=white" alt="Roadmap.sh">
+  </a>
+  <a href="https://medium.com/@sandunthiwanka904" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Sandun%20Thiwanka-black?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://app.daily.dev/sandun15" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-Tech%20Updates-purple?logo=daily.dev&logoColor=white" alt="Daily.dev">
+  </a>
+</p>
+
 
 ---
 
